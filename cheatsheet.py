@@ -10,8 +10,6 @@ end='0' # End with 0
 '''WEEK 2: VARIABLES AND DATA TYPES'''
 import math
 
-from matplotlib import axis
-
 x_float = float(10) # Convert to float
 x_str = str(10) # Convert to string
 x_int = int(10.5) # Convert to int
